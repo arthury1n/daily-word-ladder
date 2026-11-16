@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arthury1n.github.io/daily-word-ladder/sitemap.xml
